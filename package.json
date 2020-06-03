@@ -1,0 +1,23 @@
+{
+  "name": "prueba",
+  "version": "0.0.1",
+  "description": "App de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drallert/DGSIN1920-13-sandbox.git"
+  },
+  "author": "Enrique Piñero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drallert/DGSIN1920-13-sandbox/issues"
+  },
+  "homepage": "https://github.com/Drallert/DGSIN1920-13-sandbox#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
