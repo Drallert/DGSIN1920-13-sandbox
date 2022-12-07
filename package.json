@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Drallert/DGSIN1920-13-sandbox#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
